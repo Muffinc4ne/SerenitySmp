@@ -1,0 +1,13 @@
+{
+  "logModelCreationData": true,
+  "debugOnRightClick": false,
+  "renderModeChoice": "NORMAL",
+  "vanillaModelHologramRenderMode_2": "OFF",
+  "attemptRevertingEntityModelsAlteredByAnotherMod": true,
+  "modelExportMode": "LOG_ONLY",
+  "attemptPhysicsModPatch_2": "OFF",
+  "modelUpdateFrequency": "Instant",
+  "allowEBEModConfigModify": true,
+  "animationLODDistance": 20,
+  "retainDetailOnLowFps": true
+}
